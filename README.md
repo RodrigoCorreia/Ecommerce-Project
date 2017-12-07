@@ -1,2 +1,2 @@
 # Ecommerce-Project
-Buld a website ecomerce
+Buld a website Ecommerce
